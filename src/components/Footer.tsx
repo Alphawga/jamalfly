@@ -71,17 +71,23 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-sm">
-              <li>123 Logistics Street</li>
-              <li>Business District</li>
-              <li>City, State 12345</li>
+            17, Alhaja Adetutu Street,
+             <br />
+             Baale Bus Stop,
+             <br />
+             Egbeda, Lagos
               <li className="pt-2">
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+2348060470182"
+
+
+
                   className="hover:text-primary transition-colors duration-200"
                 >
-                  +1 (234) 567-890
+                  +234-806-047-0182
                 </a>
               </li>
+
               <li>
                 <a
                   href="mailto:info@JamalFly.com"
