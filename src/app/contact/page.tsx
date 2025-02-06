@@ -201,12 +201,16 @@ export default function Contact() {
                 <div>
                   <h3 className="text-xl font-semibold mb-4">Office Address</h3>
                   <p className="text-gray-600">
-                    123 Logistics Street
+                  17, Alhaja Adetutu Street
                     <br />
-                    Business District
-                    <br />
-                    City, State 12345
+                   Baale Bus Stop, 
+                   <br />
+                   Egbeda
+                   <br />
+                   Lagos, Nigeria
                   </p>
+
+
                 </div>
 
                 <div>
@@ -227,10 +231,24 @@ export default function Contact() {
                         />
                       </svg>
                       <a
-                        href="tel:+1234567890"
+                        href="tel:+2348060470182"
                         className="hover:text-primary transition-colors duration-200"
                       >
-                        +1 (234) 567-890
+                        +234-806-047-0182
+                      </a>
+                      <br />
+                      <a
+                        href="tel:+2347044190197"
+                        className="hover:text-primary transition-colors duration-200"
+                      >
+                        +234-704-419-0197
+                      </a>
+                      <br />
+                      <a
+                        href="tel:+2348142542272"
+                        className="hover:text-primary transition-colors duration-200"
+                      >
+                        +234-814-254-2272
                       </a>
                     </p>
                     <p className="flex items-center text-gray-600">
@@ -248,10 +266,10 @@ export default function Contact() {
                         />
                       </svg>
                       <a
-                        href="mailto:info@jamfly.com"
+                        href="mailto:info@JamalFly.com"
                         className="hover:text-primary transition-colors duration-200"
                       >
-                        info@jamfly.com
+                        info@JamalFly.com
                       </a>
                     </p>
                   </div>
@@ -270,7 +288,7 @@ export default function Contact() {
                 <div className="mt-8">
                   <div className="aspect-w-16 aspect-h-9">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2219901290355!2d-74.00369368400567!3d40.71312937933185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a23e28c1191%3A0x49f75d3281df052a!2s150%20Park%20Row%2C%20New%20York%2C%20NY%2010007!5e0!3m2!1sen!2sus!4v1644262070010!5m2!1sen!2sus"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.3376486165394!2d3.2876371!3d6.6027778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b9228fa2a3999%3A0x3b06c0ace0b0e0a8!2s17%20Alhaja%20Adetutu%20St%2C%20Baale%20Bus%20Stop%2C%20Egbeda%2C%20Lagos!5e0!3m2!1sen!2sng!4v1709913051824!5m2!1sen!2sng"
                       width="100%"
                       height="450"
                       style={{ border: 0 }}

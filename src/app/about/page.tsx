@@ -34,7 +34,7 @@ const timeline = [
   {
     year: '2015',
     title: 'Company Founded',
-    description: 'Jamfly was established with a vision to revolutionize logistics.',
+    description: 'JamalFly was established with a vision to revolutionize logistics.',
   },
   {
     year: '2017',

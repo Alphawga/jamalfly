@@ -23,7 +23,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold text-primary">Jamfly</h3>
+            <h3 className="text-2xl font-bold text-primary">JamalFly</h3>
             <p className="text-sm">
               Professional logistics services for your every need. We bring solutions to life.
             </p>
@@ -84,10 +84,10 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="mailto:info@jamfly.com"
+                  href="mailto:info@JamalFly.com"
                   className="hover:text-primary transition-colors duration-200"
                 >
-                  info@jamfly.com
+                  info@JamalFly.com
                 </a>
               </li>
             </ul>
@@ -109,7 +109,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="border-t border-gray-700 mt-12 pt-8 text-center text-sm">
-          <p>© {currentYear} Jamfly. All rights reserved.</p>
+          <p>© {currentYear} JamalFly. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -8,7 +8,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jamfly - Effortless Logistics Solutions",
+  title: "JamalFly - Effortless Logistics Solutions",
   description: "Professional logistics services for cargo, agriculture, construction, and car dealership needs.",
 };
 
