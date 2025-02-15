@@ -10,23 +10,23 @@ const teamMembers = [
     image: '/images/team/akorede.jpg',
     bio: 'With over 15 years of experience in logistics, Akorede leads our team with vision and expertise.',
   },
+  // {
+  //   name: 'Jane Smith',
+  //   role: 'Operations Manager',
+  //   image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976',
+  //   bio: 'Jane ensures smooth operations across all our service areas.',
+  // },
   {
-    name: 'Jane Smith',
-    role: 'Operations Manager',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976',
-    bio: 'Jane ensures smooth operations across all our service areas.',
-  },
-  {
-    name: 'Mike Johnson',
+    name: 'Issa Olasunkanmi Akinlawon',
     role: 'Fleet Manager',
-    image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1974',
-    bio: 'Mike oversees our vehicle fleet and ensures timely deliveries.',
+    image: '/images/team/issa.jpg',
+    bio: 'Issa oversees our vehicle fleet and ensures timely deliveries.',
   },
   {
-    name: 'Sarah Wilson',
+    name: 'Hawawu Lawal',
     role: 'Customer Relations',
-    image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961',
-    bio: 'Sarah is dedicated to providing exceptional customer service.',
+    image: '/images/team/hawawu.jpg',
+    bio: 'Hawawu is dedicated to providing exceptional customer service.',
   },
 ]
 
