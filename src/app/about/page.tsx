@@ -5,10 +5,10 @@ import Image from 'next/image'
 
 const teamMembers = [
   {
-    name: 'John Doe',
+    name: 'Mohammed Akorede Alao',
     role: 'CEO & Founder',
-    image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1974',
-    bio: 'With over 15 years of experience in logistics, John leads our team with vision and expertise.',
+    image: '/images/team/akorede.jpg',
+    bio: 'With over 15 years of experience in logistics, Akorede leads our team with vision and expertise.',
   },
   {
     name: 'Jane Smith',

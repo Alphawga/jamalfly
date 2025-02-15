@@ -288,7 +288,7 @@ export default function Contact() {
                 <div className="mt-8">
                   <div className="aspect-w-16 aspect-h-9">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.3376486165394!2d3.2876371!3d6.6027778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b9228fa2a3999%3A0x3b06c0ace0b0e0a8!2s17%20Alhaja%20Adetutu%20St%2C%20Baale%20Bus%20Stop%2C%20Egbeda%2C%20Lagos!5e0!3m2!1sen!2sng!4v1709913051824!5m2!1sen!2sng"
+                     src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d247.71176588272965!2d3.2990323647338067!3d6.598576130765657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d6.5868601!2d3.2764238999999997!4m5!1s0x103b8fb680104a29%3A0x7238e94d1a3e0edc!2sjamal%20fly%20limited%20address!3m2!1d6.5986913!2d3.2990312!5e0!3m2!1sen!2sng!4v1739598399556!5m2!1sen!2sng"
                       width="100%"
                       height="450"
                       style={{ border: 0 }}
@@ -297,6 +297,7 @@ export default function Contact() {
                       referrerPolicy="no-referrer-when-downgrade"
                       className="rounded-lg"
                     />
+                   
                   </div>
                 </div>
               </div>
