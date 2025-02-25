@@ -7,7 +7,7 @@ const teamMembers = [
   {
     name: 'Mohammed Akorede Alao',
     role: 'CEO & Founder',
-    image: '/images/team/akorede.jpg',
+    image: '/images/team/akorede.jpeg',
     bio: 'With over 15 years of experience in logistics, Akorede leads our team with vision and expertise.',
   },
   // {
